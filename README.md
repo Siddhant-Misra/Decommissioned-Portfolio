@@ -6,4 +6,4 @@ I am still updating this nonetheless.
 
 Check out this website here: https://siddhant-misra.github.io/Decommissioned-Portfolio/.
 
-Check out the new one here: 
+Check out the new one here: https://siddhant-misra.github.io/Portfolio/
